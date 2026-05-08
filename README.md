@@ -1,7 +1,5 @@
 <h1 align="center" style="font-family: monospace;">Ioannis Kolliniatis</h1>
 
-<!-- Languages and Tools -->
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="12" />
@@ -47,14 +45,9 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nxstyyyy&locale=en&mode=weekly&theme=onedark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/Nxstyyyy/Nxstyyyy/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Nxstyyyy/Nxstyyyy/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Nxstyyyy&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 <br>
