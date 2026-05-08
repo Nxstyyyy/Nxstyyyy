@@ -45,9 +45,12 @@
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Nxstyyyy&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+    <img src="https://raw.githubusercontent.com/Nxstyyyy/Nxstyyyy/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/Nxstyyyy/Nxstyyyy/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Nxstyyyy/Nxstyyyy/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Nxstyyyy&locale=en&mode=daily&theme=onedark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 <br>
